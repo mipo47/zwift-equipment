@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zwift-equipment/static/css/main.f178a0be.css",
-    "main.js": "/zwift-equipment/static/js/main.d9411561.js",
-    "static/js/787.d6d5bee3.chunk.js": "/zwift-equipment/static/js/787.d6d5bee3.chunk.js",
-    "index.html": "/zwift-equipment/index.html",
-    "main.f178a0be.css.map": "/zwift-equipment/static/css/main.f178a0be.css.map",
-    "main.d9411561.js.map": "/zwift-equipment/static/js/main.d9411561.js.map",
-    "787.d6d5bee3.chunk.js.map": "/zwift-equipment/static/js/787.d6d5bee3.chunk.js.map"
+    "main.css": "/static/css/main.f178a0be.css",
+    "main.js": "/static/js/main.3ee34a05.js",
+    "static/js/787.d6d5bee3.chunk.js": "/static/js/787.d6d5bee3.chunk.js",
+    "index.html": "/index.html",
+    "main.f178a0be.css.map": "/static/css/main.f178a0be.css.map",
+    "main.3ee34a05.js.map": "/static/js/main.3ee34a05.js.map",
+    "787.d6d5bee3.chunk.js.map": "/static/js/787.d6d5bee3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f178a0be.css",
-    "static/js/main.d9411561.js"
+    "static/js/main.3ee34a05.js"
   ]
 }
