@@ -38,7 +38,7 @@ False,Cervelo S5 2020,Zwift 32mm Carbon,3077.0,2949.0,36.0,3.0
 False,Cervelo S5 2020,Campagnolo Bora Ultra 50,3077.5,2942.5,36.0,12.0
 False,Cervelo S5 2020,Zwift Safety,3077.5,2948.5,36.0,44.0
 False,Cervelo S5 2020,Zwift Buffalo Fahrrad,3082.0,2956.0,36.0,
-False,Cervelo S5 2020,Zwift Classic,3083.0,2957.0,36.0,
+False,Cervelo S5 2020,Zwift Classic,3083.0,2957.0,36.0,1.0
 False,Felt AR,DT Swiss ARC 1100 Dicut Disc,3017.0,2955.0,16.0,42.0
 False,Felt AR,Zipp 858/Super9,3024.0,2956.0,16.0,45.0
 False,Felt AR,Zipp 808/Super9,3026.0,2957.0,16.0,35.0
@@ -78,7 +78,7 @@ False,Felt AR,Zwift 32mm Carbon,3077.0,2946.0,16.0,3.0
 False,Felt AR,Campagnolo Bora Ultra 50,3077.5,2939.5,16.0,12.0
 False,Felt AR,Zwift Safety,3077.5,2945.5,16.0,44.0
 False,Felt AR,Zwift Buffalo Fahrrad,3082.0,2953.0,16.0,
-False,Felt AR,Zwift Classic,3083.0,2954.0,16.0,
+False,Felt AR,Zwift Classic,3083.0,2954.0,16.0,1.0
 False,Specialized Venge S-Works,DT Swiss ARC 1100 Dicut Disc,3017.0,2955.0,37.0,42.0
 False,Specialized Venge S-Works,Zipp 858/Super9,3024.0,2956.0,37.0,45.0
 False,Specialized Venge S-Works,Zipp 808/Super9,3026.0,2957.0,37.0,35.0
@@ -118,7 +118,7 @@ False,Specialized Venge S-Works,Zwift 32mm Carbon,3077.0,2946.0,37.0,3.0
 False,Specialized Venge S-Works,Campagnolo Bora Ultra 50,3077.5,2939.5,37.0,12.0
 False,Specialized Venge S-Works,Zwift Safety,3077.5,2945.5,37.0,44.0
 False,Specialized Venge S-Works,Zwift Buffalo Fahrrad,3082.0,2953.0,37.0,
-False,Specialized Venge S-Works,Zwift Classic,3083.0,2954.0,37.0,
+False,Specialized Venge S-Works,Zwift Classic,3083.0,2954.0,37.0,1.0
 False,Uranium Nuclear,DT Swiss ARC 1100 Dicut Disc,3017.0,2958.0,31.0,42.0
 False,Uranium Nuclear,Zipp 858/Super9,3024.0,2959.0,31.0,45.0
 False,Uranium Nuclear,Zipp 808/Super9,3026.0,2960.0,31.0,35.0
@@ -158,7 +158,7 @@ False,Uranium Nuclear,Zwift 32mm Carbon,3077.0,2949.0,31.0,3.0
 False,Uranium Nuclear,Campagnolo Bora Ultra 50,3077.5,2942.5,31.0,12.0
 False,Uranium Nuclear,Zwift Safety,3077.5,2948.5,31.0,44.0
 False,Uranium Nuclear,Zwift Buffalo Fahrrad,3082.0,2956.0,31.0,
-False,Uranium Nuclear,Zwift Classic,3083.0,2957.0,31.0,
+False,Uranium Nuclear,Zwift Classic,3083.0,2957.0,31.0,1.0
 False,Canyon Aeroad 2021,DT Swiss ARC 1100 Dicut Disc,3019.0,2950.0,27.0,42.0
 False,Canyon Aeroad 2021,Zipp 858/Super9,3026.0,2951.0,27.0,45.0
 False,Canyon Aeroad 2021,Zipp 808/Super9,3028.0,2952.0,27.0,35.0
@@ -198,7 +198,7 @@ False,Canyon Aeroad 2021,Zwift 32mm Carbon,3079.0,2941.0,27.0,3.0
 False,Canyon Aeroad 2021,Campagnolo Bora Ultra 50,3079.5,2934.5,27.0,12.0
 False,Canyon Aeroad 2021,Zwift Safety,3079.5,2940.5,27.0,44.0
 False,Canyon Aeroad 2021,Zwift Buffalo Fahrrad,3084.0,2948.0,27.0,
-False,Canyon Aeroad 2021,Zwift Classic,3085.0,2949.0,27.0,
+False,Canyon Aeroad 2021,Zwift Classic,3085.0,2949.0,27.0,1.0
 False,Cervelo S5,DT Swiss ARC 1100 Dicut Disc,3019.0,2959.0,36.0,42.0
 False,Cervelo S5,Zipp 858/Super9,3026.0,2960.0,36.0,45.0
 False,Cervelo S5,Zipp 808/Super9,3028.0,2961.0,36.0,35.0
@@ -238,7 +238,7 @@ False,Cervelo S5,Zwift 32mm Carbon,3079.0,2950.0,36.0,3.0
 False,Cervelo S5,Campagnolo Bora Ultra 50,3079.5,2943.5,36.0,12.0
 False,Cervelo S5,Zwift Safety,3079.5,2949.5,36.0,44.0
 False,Cervelo S5,Zwift Buffalo Fahrrad,3084.0,2957.0,36.0,
-False,Cervelo S5,Zwift Classic,3085.0,2958.0,36.0,
+False,Cervelo S5,Zwift Classic,3085.0,2958.0,36.0,1.0
 False,Trek Madone,DT Swiss ARC 1100 Dicut Disc,3019.0,2961.0,34.0,42.0
 False,Trek Madone,Zipp 858/Super9,3026.0,2962.0,34.0,45.0
 False,Trek Madone,Zipp 808/Super9,3028.0,2963.0,34.0,35.0
@@ -278,7 +278,7 @@ False,Trek Madone,Zwift 32mm Carbon,3079.0,2952.0,34.0,3.0
 False,Trek Madone,Campagnolo Bora Ultra 50,3079.5,2945.5,34.0,12.0
 False,Trek Madone,Zwift Safety,3079.5,2951.5,34.0,44.0
 False,Trek Madone,Zwift Buffalo Fahrrad,3084.0,2959.0,34.0,
-False,Trek Madone,Zwift Classic,3085.0,2960.0,34.0,
+False,Trek Madone,Zwift Classic,3085.0,2960.0,34.0,1.0
 False,Cannondale System Six,DT Swiss ARC 1100 Dicut Disc,3020.0,2973.5,20.0,42.0
 False,Cannondale System Six,Zipp 858/Super9,3027.0,2974.5,20.0,45.0
 False,Cannondale System Six,Zipp 808/Super9,3029.0,2975.5,20.0,35.0
@@ -318,7 +318,7 @@ False,Cannondale System Six,Zwift 32mm Carbon,3080.0,2964.5,20.0,3.0
 False,Cannondale System Six,Campagnolo Bora Ultra 50,3080.5,2958.0,20.0,12.0
 False,Cannondale System Six,Zwift Safety,3080.5,2964.0,20.0,44.0
 False,Cannondale System Six,Zwift Buffalo Fahrrad,3085.0,2971.5,20.0,
-False,Cannondale System Six,Zwift Classic,3086.0,2972.5,20.0,
+False,Cannondale System Six,Zwift Classic,3086.0,2972.5,20.0,1.0
 False,Chapter2 TOA,DT Swiss ARC 1100 Dicut Disc,3020.0,2952.0,33.0,42.0
 False,Chapter2 TOA,Zipp 858/Super9,3027.0,2953.0,33.0,45.0
 False,Chapter2 TOA,Zipp 808/Super9,3029.0,2954.0,33.0,35.0
@@ -358,7 +358,7 @@ False,Chapter2 TOA,Zwift 32mm Carbon,3080.0,2943.0,33.0,3.0
 False,Chapter2 TOA,Campagnolo Bora Ultra 50,3080.5,2936.5,33.0,12.0
 False,Chapter2 TOA,Zwift Safety,3080.5,2942.5,33.0,44.0
 False,Chapter2 TOA,Zwift Buffalo Fahrrad,3085.0,2950.0,33.0,
-False,Chapter2 TOA,Zwift Classic,3086.0,2951.0,33.0,
+False,Chapter2 TOA,Zwift Classic,3086.0,2951.0,33.0,1.0
 False,Pinarello Dogma F,DT Swiss ARC 1100 Dicut Disc,3020.0,2948.0,40.0,42.0
 False,Pinarello Dogma F,Zipp 858/Super9,3027.0,2949.0,40.0,45.0
 False,Pinarello Dogma F,Zipp 808/Super9,3029.0,2950.0,40.0,35.0
@@ -398,7 +398,7 @@ False,Pinarello Dogma F,Zwift 32mm Carbon,3080.0,2939.0,40.0,3.0
 False,Pinarello Dogma F,Campagnolo Bora Ultra 50,3080.5,2932.5,40.0,12.0
 False,Pinarello Dogma F,Zwift Safety,3080.5,2938.5,40.0,44.0
 False,Pinarello Dogma F,Zwift Buffalo Fahrrad,3085.0,2946.0,40.0,
-False,Pinarello Dogma F,Zwift Classic,3086.0,2947.0,40.0,
+False,Pinarello Dogma F,Zwift Classic,3086.0,2947.0,40.0,1.0
 False,Specialized Venge,DT Swiss ARC 1100 Dicut Disc,3020.0,2972.0,18.0,42.0
 False,Specialized Venge,Zipp 858/Super9,3027.0,2973.0,18.0,45.0
 False,Specialized Venge,Zipp 808/Super9,3029.0,2974.0,18.0,35.0
@@ -438,7 +438,7 @@ False,Specialized Venge,Zwift 32mm Carbon,3080.0,2963.0,18.0,3.0
 False,Specialized Venge,Campagnolo Bora Ultra 50,3080.5,2956.5,18.0,12.0
 False,Specialized Venge,Zwift Safety,3080.5,2962.5,18.0,44.0
 False,Specialized Venge,Zwift Buffalo Fahrrad,3085.0,2970.0,18.0,
-False,Specialized Venge,Zwift Classic,3086.0,2971.0,18.0,
+False,Specialized Venge,Zwift Classic,3086.0,2971.0,18.0,1.0
 False,Giant Propel Advanced SL Disc,DT Swiss ARC 1100 Dicut Disc,3021.5,2963.5,35.0,42.0
 False,Giant Propel Advanced SL Disc,Zipp 858/Super9,3028.5,2964.5,35.0,45.0
 False,Giant Propel Advanced SL Disc,Zipp 808/Super9,3030.5,2965.5,35.0,35.0
@@ -478,7 +478,7 @@ False,Giant Propel Advanced SL Disc,Zwift 32mm Carbon,3081.5,2954.5,35.0,3.0
 False,Giant Propel Advanced SL Disc,Campagnolo Bora Ultra 50,3082.0,2948.0,35.0,12.0
 False,Giant Propel Advanced SL Disc,Zwift Safety,3082.0,2954.0,35.0,44.0
 False,Giant Propel Advanced SL Disc,Zwift Buffalo Fahrrad,3086.5,2961.5,35.0,
-False,Giant Propel Advanced SL Disc,Zwift Classic,3087.5,2962.5,35.0,
+False,Giant Propel Advanced SL Disc,Zwift Classic,3087.5,2962.5,35.0,1.0
 False,Focus Izalco Max,DT Swiss ARC 1100 Dicut Disc,3022.5,2959.0,22.0,42.0
 False,Focus Izalco Max,Zipp 858/Super9,3029.5,2960.0,22.0,45.0
 False,Focus Izalco Max,Zipp 808/Super9,3031.5,2961.0,22.0,35.0
@@ -518,47 +518,47 @@ False,Focus Izalco Max,Zwift 32mm Carbon,3082.5,2950.0,22.0,3.0
 False,Focus Izalco Max,Campagnolo Bora Ultra 50,3083.0,2943.5,22.0,12.0
 False,Focus Izalco Max,Zwift Safety,3083.0,2949.5,22.0,44.0
 False,Focus Izalco Max,Zwift Buffalo Fahrrad,3087.5,2957.0,22.0,
-False,Focus Izalco Max,Zwift Classic,3088.5,2958.0,22.0,
-False,Scott Addict RC,DT Swiss ARC 1100 Dicut Disc,3022.5,2944.0,17.0,42.0
-False,Scott Addict RC,Zipp 858/Super9,3029.5,2945.0,17.0,45.0
-False,Scott Addict RC,Zipp 808/Super9,3031.5,2946.0,17.0,35.0
-False,Scott Addict RC,Zipp 858,3035.5,2935.0,17.0,37.0
-False,Scott Addict RC,ENVE SES 7.8,3037.5,2930.0,17.0,39.0
-False,Scott Addict RC,Zipp 808,3038.5,2937.0,17.0,13.0
-False,Scott Addict RC,ENVE SES 8.9,3039.0,2939.5,17.0,31.0
-False,Scott Addict RC,Zipp 454,3046.5,2928.0,17.0,24.0
-False,Scott Addict RC,DT Swiss ARC 1100 Dicut 62,3047.5,2926.0,17.0,6.0
-False,Scott Addict RC,CADEX 65,3048.0,2928.0,17.0,21.0
-False,Scott Addict RC,Zipp 404,3049.5,2931.0,17.0,15.0
-False,Scott Addict RC,ENVE SES 6.7,3050.5,2935.0,17.0,25.0
-False,Scott Addict RC,Zipp 353 NSW,3051.5,2928.0,17.0,19.0
-False,Scott Addict RC,Roval Rapide CLX,3052.5,2930.0,17.0,15.0
-False,Scott Addict RC,Roval CLX 64,3052.5,2935.0,17.0,16.0
-False,Scott Addict RC,ENVE SES 3.4,3055.0,2927.0,17.0,27.0
-False,Scott Addict RC,FFWD RYOT55,3056.0,2927.0,17.0,
-False,Scott Addict RC,Campagnolo Bora Ultra 35,3056.5,2928.5,17.0,33.0
-False,Scott Addict RC,Mavic Comete Pro Carbon SL UST,3057.0,2945.5,17.0,13.0
-False,Scott Addict RC,Giant SLR 0,3059.5,2927.5,17.0,22.0
-False,Scott Addict RC,Shimano C60,3059.5,2946.0,17.0,10.0
-False,Scott Addict RC,Mavic Cosmic CXR60c,3061.0,2943.5,17.0,7.0
-False,Scott Addict RC,Bontrager Aeolus5,3063.5,2931.0,17.0,11.0
-False,Scott Addict RC,Mavic Cosmic Ultimate UST,3063.5,2941.0,17.0,6.0
-False,Scott Addict RC,HED Vanquish RC6 Pro,3066.0,2929.0,17.0,8.0
-False,Scott Addict RC,CADEX 42,3066.5,2929.0,17.0,8.0
-False,Scott Addict RC,Roval Alpinist CLX,3068.5,2921.0,17.0,32.0
-False,Scott Addict RC,Shimano C50,3068.5,2942.5,17.0,4.0
-False,Scott Addict RC,Lightweight Meilenstein,3069.0,2921.0,17.0,0.0
-False,Scott Addict RC,50mm Carbon,3070.0,2936.0,17.0,9.0
-False,Scott Addict RC,Shimano C40,3070.5,2938.5,17.0,4.0
-False,Scott Addict RC,CADEX 36,3076.0,2926.5,17.0,26.0
-False,Scott Addict RC,Zipp 202,3077.5,2929.5,17.0,
-False,Scott Addict RC,Novatec R4,3079.0,2940.0,17.0,
-False,Scott Addict RC,ENVE SES 2.2,3082.5,2928.5,17.0,
-False,Scott Addict RC,Zwift 32mm Carbon,3082.5,2935.0,17.0,3.0
-False,Scott Addict RC,Campagnolo Bora Ultra 50,3083.0,2928.5,17.0,12.0
-False,Scott Addict RC,Zwift Safety,3083.0,2934.5,17.0,44.0
-False,Scott Addict RC,Zwift Buffalo Fahrrad,3087.5,2942.0,17.0,
-False,Scott Addict RC,Zwift Classic,3088.5,2943.0,17.0,
+False,Focus Izalco Max,Zwift Classic,3088.5,2958.0,22.0,1.0
+False,Scott Addict RC,DT Swiss ARC 1100 Dicut Disc,3022.5,2944.0,33.0,42.0
+False,Scott Addict RC,Zipp 858/Super9,3029.5,2945.0,33.0,45.0
+False,Scott Addict RC,Zipp 808/Super9,3031.5,2946.0,33.0,35.0
+False,Scott Addict RC,Zipp 858,3035.5,2935.0,33.0,37.0
+False,Scott Addict RC,ENVE SES 7.8,3037.5,2930.0,33.0,39.0
+False,Scott Addict RC,Zipp 808,3038.5,2937.0,33.0,13.0
+False,Scott Addict RC,ENVE SES 8.9,3039.0,2939.5,33.0,31.0
+False,Scott Addict RC,Zipp 454,3046.5,2928.0,33.0,24.0
+False,Scott Addict RC,DT Swiss ARC 1100 Dicut 62,3047.5,2926.0,33.0,6.0
+False,Scott Addict RC,CADEX 65,3048.0,2928.0,33.0,21.0
+False,Scott Addict RC,Zipp 404,3049.5,2931.0,33.0,15.0
+False,Scott Addict RC,ENVE SES 6.7,3050.5,2935.0,33.0,25.0
+False,Scott Addict RC,Zipp 353 NSW,3051.5,2928.0,33.0,19.0
+False,Scott Addict RC,Roval Rapide CLX,3052.5,2930.0,33.0,15.0
+False,Scott Addict RC,Roval CLX 64,3052.5,2935.0,33.0,16.0
+False,Scott Addict RC,ENVE SES 3.4,3055.0,2927.0,33.0,27.0
+False,Scott Addict RC,FFWD RYOT55,3056.0,2927.0,33.0,
+False,Scott Addict RC,Campagnolo Bora Ultra 35,3056.5,2928.5,33.0,33.0
+False,Scott Addict RC,Mavic Comete Pro Carbon SL UST,3057.0,2945.5,33.0,13.0
+False,Scott Addict RC,Giant SLR 0,3059.5,2927.5,33.0,22.0
+False,Scott Addict RC,Shimano C60,3059.5,2946.0,33.0,10.0
+False,Scott Addict RC,Mavic Cosmic CXR60c,3061.0,2943.5,33.0,7.0
+False,Scott Addict RC,Bontrager Aeolus5,3063.5,2931.0,33.0,11.0
+False,Scott Addict RC,Mavic Cosmic Ultimate UST,3063.5,2941.0,33.0,6.0
+False,Scott Addict RC,HED Vanquish RC6 Pro,3066.0,2929.0,33.0,8.0
+False,Scott Addict RC,CADEX 42,3066.5,2929.0,33.0,8.0
+False,Scott Addict RC,Roval Alpinist CLX,3068.5,2921.0,33.0,32.0
+False,Scott Addict RC,Shimano C50,3068.5,2942.5,33.0,4.0
+False,Scott Addict RC,Lightweight Meilenstein,3069.0,2921.0,33.0,0.0
+False,Scott Addict RC,50mm Carbon,3070.0,2936.0,33.0,9.0
+False,Scott Addict RC,Shimano C40,3070.5,2938.5,33.0,4.0
+False,Scott Addict RC,CADEX 36,3076.0,2926.5,33.0,26.0
+False,Scott Addict RC,Zipp 202,3077.5,2929.5,33.0,
+False,Scott Addict RC,Novatec R4,3079.0,2940.0,33.0,
+False,Scott Addict RC,ENVE SES 2.2,3082.5,2928.5,33.0,
+False,Scott Addict RC,Zwift 32mm Carbon,3082.5,2935.0,33.0,3.0
+False,Scott Addict RC,Campagnolo Bora Ultra 50,3083.0,2928.5,33.0,12.0
+False,Scott Addict RC,Zwift Safety,3083.0,2934.5,33.0,44.0
+False,Scott Addict RC,Zwift Buffalo Fahrrad,3087.5,2942.0,33.0,
+False,Scott Addict RC,Zwift Classic,3088.5,2943.0,33.0,1.0
 False,Pinarello Dogma F12,DT Swiss ARC 1100 Dicut Disc,3023.0,2958.0,40.0,42.0
 False,Pinarello Dogma F12,Zipp 858/Super9,3030.0,2959.0,40.0,45.0
 False,Pinarello Dogma F12,Zipp 808/Super9,3032.0,2960.0,40.0,35.0
@@ -598,7 +598,7 @@ False,Pinarello Dogma F12,Zwift 32mm Carbon,3083.0,2949.0,40.0,3.0
 False,Pinarello Dogma F12,Campagnolo Bora Ultra 50,3083.5,2942.5,40.0,12.0
 False,Pinarello Dogma F12,Zwift Safety,3083.5,2948.5,40.0,44.0
 False,Pinarello Dogma F12,Zwift Buffalo Fahrrad,3088.0,2956.0,40.0,
-False,Pinarello Dogma F12,Zwift Classic,3089.0,2957.0,40.0,
+False,Pinarello Dogma F12,Zwift Classic,3089.0,2957.0,40.0,1.0
 False,Specialized Allez Sprint,DT Swiss ARC 1100 Dicut Disc,3023.0,2962.0,14.0,42.0
 False,Specialized Allez Sprint,Zipp 858/Super9,3030.0,2963.0,14.0,45.0
 False,Specialized Allez Sprint,Zipp 808/Super9,3032.0,2964.0,14.0,35.0
@@ -638,7 +638,7 @@ False,Specialized Allez Sprint,Zwift 32mm Carbon,3083.0,2953.0,14.0,3.0
 False,Specialized Allez Sprint,Campagnolo Bora Ultra 50,3083.5,2946.5,14.0,12.0
 False,Specialized Allez Sprint,Zwift Safety,3083.5,2952.5,14.0,44.0
 False,Specialized Allez Sprint,Zwift Buffalo Fahrrad,3088.0,2960.0,14.0,
-False,Specialized Allez Sprint,Zwift Classic,3089.0,2961.0,14.0,
+False,Specialized Allez Sprint,Zwift Classic,3089.0,2961.0,14.0,1.0
 False,Cervelo S3D,DT Swiss ARC 1100 Dicut Disc,3023.5,2981.5,15.0,42.0
 False,Cervelo S3D,Zipp 858/Super9,3030.5,2982.5,15.0,45.0
 False,Cervelo S3D,Zipp 808/Super9,3032.5,2983.5,15.0,35.0
@@ -678,7 +678,7 @@ False,Cervelo S3D,Zwift 32mm Carbon,3083.5,2972.5,15.0,3.0
 False,Cervelo S3D,Campagnolo Bora Ultra 50,3084.0,2966.0,15.0,12.0
 False,Cervelo S3D,Zwift Safety,3084.0,2972.0,15.0,44.0
 False,Cervelo S3D,Zwift Buffalo Fahrrad,3088.5,2979.5,15.0,
-False,Cervelo S3D,Zwift Classic,3089.5,2980.5,15.0,
+False,Cervelo S3D,Zwift Classic,3089.5,2980.5,15.0,1.0
 False,Ridley Noah Fast 2019,DT Swiss ARC 1100 Dicut Disc,3023.5,2973.5,33.0,42.0
 False,Ridley Noah Fast 2019,Zipp 858/Super9,3030.5,2974.5,33.0,45.0
 False,Ridley Noah Fast 2019,Zipp 808/Super9,3032.5,2975.5,33.0,35.0
@@ -718,7 +718,7 @@ False,Ridley Noah Fast 2019,Zwift 32mm Carbon,3083.5,2964.5,33.0,3.0
 False,Ridley Noah Fast 2019,Campagnolo Bora Ultra 50,3084.0,2958.0,33.0,12.0
 False,Ridley Noah Fast 2019,Zwift Safety,3084.0,2964.0,33.0,44.0
 False,Ridley Noah Fast 2019,Zwift Buffalo Fahrrad,3088.5,2971.5,33.0,
-False,Ridley Noah Fast 2019,Zwift Classic,3089.5,2972.5,33.0,
+False,Ridley Noah Fast 2019,Zwift Classic,3089.5,2972.5,33.0,1.0
 False,Factor One,DT Swiss ARC 1100 Dicut Disc,3024.5,2975.0,19.0,42.0
 False,Factor One,Zipp 858/Super9,3031.5,2976.0,19.0,45.0
 False,Factor One,Zipp 808/Super9,3033.5,2977.0,19.0,35.0
@@ -758,7 +758,7 @@ False,Factor One,Zwift 32mm Carbon,3084.5,2966.0,19.0,3.0
 False,Factor One,Campagnolo Bora Ultra 50,3085.0,2959.5,19.0,12.0
 False,Factor One,Zwift Safety,3085.0,2965.5,19.0,44.0
 False,Factor One,Zwift Buffalo Fahrrad,3089.5,2973.0,19.0,
-False,Factor One,Zwift Classic,3090.5,2974.0,19.0,
+False,Factor One,Zwift Classic,3090.5,2974.0,19.0,1.0
 False,Zwift Aero,DT Swiss ARC 1100 Dicut Disc,3025.0,2977.0,9.0,42.0
 False,Zwift Aero,Zipp 858/Super9,3032.0,2978.0,9.0,45.0
 False,Zwift Aero,Zipp 808/Super9,3034.0,2979.0,9.0,35.0
@@ -798,7 +798,7 @@ False,Zwift Aero,Zwift 32mm Carbon,3085.0,2968.0,9.0,3.0
 False,Zwift Aero,Campagnolo Bora Ultra 50,3085.5,2961.5,9.0,12.0
 False,Zwift Aero,Zwift Safety,3085.5,2967.5,9.0,44.0
 False,Zwift Aero,Zwift Buffalo Fahrrad,3090.0,2975.0,9.0,
-False,Zwift Aero,Zwift Classic,3091.0,2976.0,9.0,
+False,Zwift Aero,Zwift Classic,3091.0,2976.0,9.0,1.0
 False,Parlee RZ7,DT Swiss ARC 1100 Dicut Disc,3026.0,2970.0,32.0,42.0
 False,Parlee RZ7,Zipp 858/Super9,3033.0,2971.0,32.0,45.0
 False,Parlee RZ7,Zipp 808/Super9,3035.0,2972.0,32.0,35.0
@@ -838,7 +838,7 @@ False,Parlee RZ7,Zwift 32mm Carbon,3086.0,2961.0,32.0,3.0
 False,Parlee RZ7,Campagnolo Bora Ultra 50,3086.5,2954.5,32.0,12.0
 False,Parlee RZ7,Zwift Safety,3086.5,2960.5,32.0,44.0
 False,Parlee RZ7,Zwift Buffalo Fahrrad,3091.0,2968.0,32.0,
-False,Parlee RZ7,Zwift Classic,3092.0,2969.0,32.0,
+False,Parlee RZ7,Zwift Classic,3092.0,2969.0,32.0,1.0
 False,Pinarello Dogma F10,DT Swiss ARC 1100 Dicut Disc,3026.0,2961.5,40.0,42.0
 False,Pinarello Dogma F10,Zipp 858/Super9,3033.0,2962.5,40.0,45.0
 False,Pinarello Dogma F10,Zipp 808/Super9,3035.0,2963.5,40.0,35.0
@@ -878,7 +878,7 @@ False,Pinarello Dogma F10,Zwift 32mm Carbon,3086.0,2952.5,40.0,3.0
 False,Pinarello Dogma F10,Campagnolo Bora Ultra 50,3086.5,2946.0,40.0,12.0
 False,Pinarello Dogma F10,Zwift Safety,3086.5,2952.0,40.0,44.0
 False,Pinarello Dogma F10,Zwift Buffalo Fahrrad,3091.0,2959.5,40.0,
-False,Pinarello Dogma F10,Zwift Classic,3092.0,2960.5,40.0,
+False,Pinarello Dogma F10,Zwift Classic,3092.0,2960.5,40.0,1.0
 False,Ribble Endurance,DT Swiss ARC 1100 Dicut Disc,3027.0,2975.0,21.0,42.0
 False,Ribble Endurance,Zipp 858/Super9,3034.0,2976.0,21.0,45.0
 False,Ribble Endurance,Zipp 808/Super9,3036.0,2977.0,21.0,35.0
@@ -918,7 +918,7 @@ False,Ribble Endurance,Zwift 32mm Carbon,3087.0,2966.0,21.0,3.0
 False,Ribble Endurance,Campagnolo Bora Ultra 50,3087.5,2959.5,21.0,12.0
 False,Ribble Endurance,Zwift Safety,3087.5,2965.5,21.0,44.0
 False,Ribble Endurance,Zwift Buffalo Fahrrad,3092.0,2973.0,21.0,
-False,Ribble Endurance,Zwift Classic,3093.0,2974.0,21.0,
+False,Ribble Endurance,Zwift Classic,3093.0,2974.0,21.0,1.0
 False,Chapter2 Rere,DT Swiss ARC 1100 Dicut Disc,3028.0,2972.0,13.0,42.0
 False,Chapter2 Rere,Zipp 858/Super9,3035.0,2973.0,13.0,45.0
 False,Chapter2 Rere,Zipp 808/Super9,3037.0,2974.0,13.0,35.0
@@ -958,7 +958,7 @@ False,Chapter2 Rere,Zwift 32mm Carbon,3088.0,2963.0,13.0,3.0
 False,Chapter2 Rere,Campagnolo Bora Ultra 50,3088.5,2956.5,13.0,12.0
 False,Chapter2 Rere,Zwift Safety,3088.5,2962.5,13.0,44.0
 False,Chapter2 Rere,Zwift Buffalo Fahrrad,3093.0,2970.0,13.0,
-False,Chapter2 Rere,Zwift Classic,3094.0,2971.0,13.0,
+False,Chapter2 Rere,Zwift Classic,3094.0,2971.0,13.0,1.0
 False,Scott Foil,DT Swiss ARC 1100 Dicut Disc,3028.0,2961.5,26.0,42.0
 False,Scott Foil,Zipp 858/Super9,3035.0,2962.5,26.0,45.0
 False,Scott Foil,Zipp 808/Super9,3037.0,2963.5,26.0,35.0
@@ -998,7 +998,7 @@ False,Scott Foil,Zwift 32mm Carbon,3088.0,2952.5,26.0,3.0
 False,Scott Foil,Campagnolo Bora Ultra 50,3088.5,2946.0,26.0,12.0
 False,Scott Foil,Zwift Safety,3088.5,2952.0,26.0,44.0
 False,Scott Foil,Zwift Buffalo Fahrrad,3093.0,2959.5,26.0,
-False,Scott Foil,Zwift Classic,3094.0,2960.5,26.0,
+False,Scott Foil,Zwift Classic,3094.0,2960.5,26.0,1.0
 False,BMC TeamMachine,DT Swiss ARC 1100 Dicut Disc,3029.5,2951.5,39.0,42.0
 False,BMC TeamMachine,Zipp 858/Super9,3036.5,2952.5,39.0,45.0
 False,BMC TeamMachine,Zipp 808/Super9,3038.5,2953.5,39.0,35.0
@@ -1038,7 +1038,7 @@ False,BMC TeamMachine,Zwift 32mm Carbon,3089.5,2942.5,39.0,3.0
 False,BMC TeamMachine,Campagnolo Bora Ultra 50,3090.0,2936.0,39.0,12.0
 False,BMC TeamMachine,Zwift Safety,3090.0,2942.0,39.0,44.0
 False,BMC TeamMachine,Zwift Buffalo Fahrrad,3094.5,2949.5,39.0,
-False,BMC TeamMachine,Zwift Classic,3095.5,2950.5,39.0,
+False,BMC TeamMachine,Zwift Classic,3095.5,2950.5,39.0,1.0
 False,Liv Langma SL Advanced Disc,DT Swiss ARC 1100 Dicut Disc,3029.5,2954.0,24.0,42.0
 False,Liv Langma SL Advanced Disc,Zipp 858/Super9,3036.5,2955.0,24.0,45.0
 False,Liv Langma SL Advanced Disc,Zipp 808/Super9,3038.5,2956.0,24.0,35.0
@@ -1078,7 +1078,7 @@ False,Liv Langma SL Advanced Disc,Zwift 32mm Carbon,3089.5,2945.0,24.0,3.0
 False,Liv Langma SL Advanced Disc,Campagnolo Bora Ultra 50,3090.0,2938.5,24.0,12.0
 False,Liv Langma SL Advanced Disc,Zwift Safety,3090.0,2944.5,24.0,44.0
 False,Liv Langma SL Advanced Disc,Zwift Buffalo Fahrrad,3094.5,2952.0,24.0,
-False,Liv Langma SL Advanced Disc,Zwift Classic,3095.5,2953.0,24.0,
+False,Liv Langma SL Advanced Disc,Zwift Classic,3095.5,2953.0,24.0,1.0
 False,Cannondale SuperSix EVO,DT Swiss ARC 1100 Dicut Disc,3030.0,2949.0,29.0,42.0
 False,Cannondale SuperSix EVO,Zipp 858/Super9,3037.0,2950.0,29.0,45.0
 False,Cannondale SuperSix EVO,Zipp 808/Super9,3039.0,2951.0,29.0,35.0
@@ -1118,7 +1118,7 @@ False,Cannondale SuperSix EVO,Zwift 32mm Carbon,3090.0,2940.0,29.0,3.0
 False,Cannondale SuperSix EVO,Campagnolo Bora Ultra 50,3090.5,2933.5,29.0,12.0
 False,Cannondale SuperSix EVO,Zwift Safety,3090.5,2939.5,29.0,44.0
 False,Cannondale SuperSix EVO,Zwift Buffalo Fahrrad,3095.0,2947.0,29.0,
-False,Cannondale SuperSix EVO,Zwift Classic,3096.0,2948.0,29.0,
+False,Cannondale SuperSix EVO,Zwift Classic,3096.0,2948.0,29.0,1.0
 False,Felt FR,DT Swiss ARC 1100 Dicut Disc,3030.0,2949.0,23.0,42.0
 False,Felt FR,Zipp 858/Super9,3037.0,2950.0,23.0,45.0
 False,Felt FR,Zipp 808/Super9,3039.0,2951.0,23.0,35.0
@@ -1158,7 +1158,7 @@ False,Felt FR,Zwift 32mm Carbon,3090.0,2940.0,23.0,3.0
 False,Felt FR,Campagnolo Bora Ultra 50,3090.5,2933.5,23.0,12.0
 False,Felt FR,Zwift Safety,3090.5,2939.5,23.0,44.0
 False,Felt FR,Zwift Buffalo Fahrrad,3095.0,2947.0,23.0,
-False,Felt FR,Zwift Classic,3096.0,2948.0,23.0,
+False,Felt FR,Zwift Classic,3096.0,2948.0,23.0,1.0
 False,Specialized Tarmac SL7,DT Swiss ARC 1100 Dicut Disc,3030.0,2967.0,36.0,42.0
 False,Specialized Tarmac SL7,Zipp 858/Super9,3037.0,2968.0,36.0,45.0
 False,Specialized Tarmac SL7,Zipp 808/Super9,3039.0,2969.0,36.0,35.0
@@ -1198,7 +1198,7 @@ False,Specialized Tarmac SL7,Zwift 32mm Carbon,3090.0,2958.0,36.0,3.0
 False,Specialized Tarmac SL7,Campagnolo Bora Ultra 50,3090.5,2951.5,36.0,12.0
 False,Specialized Tarmac SL7,Zwift Safety,3090.5,2957.5,36.0,44.0
 False,Specialized Tarmac SL7,Zwift Buffalo Fahrrad,3095.0,2965.0,36.0,
-False,Specialized Tarmac SL7,Zwift Classic,3096.0,2966.0,36.0,
+False,Specialized Tarmac SL7,Zwift Classic,3096.0,2966.0,36.0,1.0
 False,Giant TCR Disc,DT Swiss ARC 1100 Dicut Disc,3031.0,2968.0,27.0,42.0
 False,Giant TCR Disc,Zipp 858/Super9,3038.0,2969.0,27.0,45.0
 False,Giant TCR Disc,Zipp 808/Super9,3040.0,2970.0,27.0,35.0
@@ -1238,7 +1238,7 @@ False,Giant TCR Disc,Zwift 32mm Carbon,3091.0,2959.0,27.0,3.0
 False,Giant TCR Disc,Campagnolo Bora Ultra 50,3091.5,2952.5,27.0,12.0
 False,Giant TCR Disc,Zwift Safety,3091.5,2958.5,27.0,44.0
 False,Giant TCR Disc,Zwift Buffalo Fahrrad,3096.0,2966.0,27.0,
-False,Giant TCR Disc,Zwift Classic,3097.0,2967.0,27.0,
+False,Giant TCR Disc,Zwift Classic,3097.0,2967.0,27.0,1.0
 False,Pinarello Dogma F8,DT Swiss ARC 1100 Dicut Disc,3031.0,2964.0,0.0,42.0
 False,Pinarello Dogma F8,Zipp 858/Super9,3038.0,2965.0,0.0,45.0
 False,Pinarello Dogma F8,Zipp 808/Super9,3040.0,2966.0,0.0,35.0
@@ -1278,7 +1278,7 @@ False,Pinarello Dogma F8,Zwift 32mm Carbon,3091.0,2955.0,0.0,3.0
 False,Pinarello Dogma F8,Campagnolo Bora Ultra 50,3091.5,2948.5,0.0,12.0
 False,Pinarello Dogma F8,Zwift Safety,3091.5,2954.5,0.0,44.0
 False,Pinarello Dogma F8,Zwift Buffalo Fahrrad,3096.0,2962.0,0.0,
-False,Pinarello Dogma F8,Zwift Classic,3097.0,2963.0,0.0,
+False,Pinarello Dogma F8,Zwift Classic,3097.0,2963.0,0.0,1.0
 False,Giant TCR Advanced SL,DT Swiss ARC 1100 Dicut Disc,3031.5,2954.5,27.0,42.0
 False,Giant TCR Advanced SL,Zipp 858/Super9,3038.5,2955.5,27.0,45.0
 False,Giant TCR Advanced SL,Zipp 808/Super9,3040.5,2956.5,27.0,35.0
@@ -1318,7 +1318,7 @@ False,Giant TCR Advanced SL,Zwift 32mm Carbon,3091.5,2945.5,27.0,3.0
 False,Giant TCR Advanced SL,Campagnolo Bora Ultra 50,3092.0,2939.0,27.0,12.0
 False,Giant TCR Advanced SL,Zwift Safety,3092.0,2945.0,27.0,44.0
 False,Giant TCR Advanced SL,Zwift Buffalo Fahrrad,3096.5,2952.5,27.0,
-False,Giant TCR Advanced SL,Zwift Classic,3097.5,2953.5,27.0,
+False,Giant TCR Advanced SL,Zwift Classic,3097.5,2953.5,27.0,1.0
 False,Parlee ESX,DT Swiss ARC 1100 Dicut Disc,3031.5,2968.5,5.0,42.0
 False,Parlee ESX,Zipp 858/Super9,3038.5,2969.5,5.0,45.0
 False,Parlee ESX,Zipp 808/Super9,3040.5,2970.5,5.0,35.0
@@ -1358,7 +1358,7 @@ False,Parlee ESX,Zwift 32mm Carbon,3091.5,2959.5,5.0,3.0
 False,Parlee ESX,Campagnolo Bora Ultra 50,3092.0,2953.0,5.0,12.0
 False,Parlee ESX,Zwift Safety,3092.0,2959.0,5.0,44.0
 False,Parlee ESX,Zwift Buffalo Fahrrad,3096.5,2966.5,5.0,
-False,Parlee ESX,Zwift Classic,3097.5,2967.5,5.0,
+False,Parlee ESX,Zwift Classic,3097.5,2967.5,5.0,1.0
 False,Pinarello Dogma 65.1,DT Swiss ARC 1100 Dicut Disc,3031.5,2981.0,40.0,42.0
 False,Pinarello Dogma 65.1,Zipp 858/Super9,3038.5,2982.0,40.0,45.0
 False,Pinarello Dogma 65.1,Zipp 808/Super9,3040.5,2983.0,40.0,35.0
@@ -1398,7 +1398,7 @@ False,Pinarello Dogma 65.1,Zwift 32mm Carbon,3091.5,2972.0,40.0,3.0
 False,Pinarello Dogma 65.1,Campagnolo Bora Ultra 50,3092.0,2965.5,40.0,12.0
 False,Pinarello Dogma 65.1,Zwift Safety,3092.0,2971.5,40.0,44.0
 False,Pinarello Dogma 65.1,Zwift Buffalo Fahrrad,3096.5,2979.0,40.0,
-False,Pinarello Dogma 65.1,Zwift Classic,3097.5,2980.0,40.0,
+False,Pinarello Dogma 65.1,Zwift Classic,3097.5,2980.0,40.0,1.0
 False,Canyon Ultimate CFR,DT Swiss ARC 1100 Dicut Disc,3032.0,2944.0,12.0,42.0
 False,Canyon Ultimate CFR,Zipp 858/Super9,3039.0,2945.0,12.0,45.0
 False,Canyon Ultimate CFR,Zipp 808/Super9,3041.0,2946.0,12.0,35.0
@@ -1438,7 +1438,7 @@ False,Canyon Ultimate CFR,Zwift 32mm Carbon,3092.0,2935.0,12.0,3.0
 False,Canyon Ultimate CFR,Campagnolo Bora Ultra 50,3092.5,2928.5,12.0,12.0
 False,Canyon Ultimate CFR,Zwift Safety,3092.5,2934.5,12.0,44.0
 False,Canyon Ultimate CFR,Zwift Buffalo Fahrrad,3097.0,2942.0,12.0,
-False,Canyon Ultimate CFR,Zwift Classic,3098.0,2943.0,12.0,
+False,Canyon Ultimate CFR,Zwift Classic,3098.0,2943.0,12.0,1.0
 False,Bridgestone Anchor RS9s,DT Swiss ARC 1100 Dicut Disc,3033.0,2946.5,10.0,42.0
 False,Bridgestone Anchor RS9s,Zipp 858/Super9,3040.0,2947.5,10.0,45.0
 False,Bridgestone Anchor RS9s,Zipp 808/Super9,3042.0,2948.5,10.0,35.0
@@ -1478,7 +1478,7 @@ False,Bridgestone Anchor RS9s,Zwift 32mm Carbon,3093.0,2937.5,10.0,3.0
 False,Bridgestone Anchor RS9s,Campagnolo Bora Ultra 50,3093.5,2931.0,10.0,12.0
 False,Bridgestone Anchor RS9s,Zwift Safety,3093.5,2937.0,10.0,44.0
 False,Bridgestone Anchor RS9s,Zwift Buffalo Fahrrad,3098.0,2944.5,10.0,
-False,Bridgestone Anchor RS9s,Zwift Classic,3099.0,2945.5,10.0,
+False,Bridgestone Anchor RS9s,Zwift Classic,3099.0,2945.5,10.0,1.0
 False,Cannondale EVO,DT Swiss ARC 1100 Dicut Disc,3033.0,2943.5,29.0,42.0
 False,Cannondale EVO,Zipp 858/Super9,3040.0,2944.5,29.0,45.0
 False,Cannondale EVO,Zipp 808/Super9,3042.0,2945.5,29.0,35.0
@@ -1518,7 +1518,7 @@ False,Cannondale EVO,Zwift 32mm Carbon,3093.0,2934.5,29.0,3.0
 False,Cannondale EVO,Campagnolo Bora Ultra 50,3093.5,2928.0,29.0,12.0
 False,Cannondale EVO,Zwift Safety,3093.5,2934.0,29.0,44.0
 False,Cannondale EVO,Zwift Buffalo Fahrrad,3098.0,2941.5,29.0,
-False,Cannondale EVO,Zwift Classic,3099.0,2942.5,29.0,
+False,Cannondale EVO,Zwift Classic,3099.0,2942.5,29.0,1.0
 False,Canyon Ultimate,DT Swiss ARC 1100 Dicut Disc,3033.0,2949.0,12.0,42.0
 False,Canyon Ultimate,Zipp 858/Super9,3040.0,2950.0,12.0,45.0
 False,Canyon Ultimate,Zipp 808/Super9,3042.0,2951.0,12.0,35.0
@@ -1558,7 +1558,7 @@ False,Canyon Ultimate,Zwift 32mm Carbon,3093.0,2940.0,12.0,3.0
 False,Canyon Ultimate,Campagnolo Bora Ultra 50,3093.5,2933.5,12.0,12.0
 False,Canyon Ultimate,Zwift Safety,3093.5,2939.5,12.0,44.0
 False,Canyon Ultimate,Zwift Buffalo Fahrrad,3098.0,2947.0,12.0,
-False,Canyon Ultimate,Zwift Classic,3099.0,2948.0,12.0,
+False,Canyon Ultimate,Zwift Classic,3099.0,2948.0,12.0,1.0
 False,Cube Litening C:68x,DT Swiss ARC 1100 Dicut Disc,3033.0,2945.0,24.0,42.0
 False,Cube Litening C:68x,Zipp 858/Super9,3040.0,2946.0,24.0,45.0
 False,Cube Litening C:68x,Zipp 808/Super9,3042.0,2947.0,24.0,35.0
@@ -1598,7 +1598,7 @@ False,Cube Litening C:68x,Zwift 32mm Carbon,3093.0,2936.0,24.0,3.0
 False,Cube Litening C:68x,Campagnolo Bora Ultra 50,3093.5,2929.5,24.0,12.0
 False,Cube Litening C:68x,Zwift Safety,3093.5,2935.5,24.0,44.0
 False,Cube Litening C:68x,Zwift Buffalo Fahrrad,3098.0,2943.0,24.0,
-False,Cube Litening C:68x,Zwift Classic,3099.0,2944.0,24.0,
+False,Cube Litening C:68x,Zwift Classic,3099.0,2944.0,24.0,1.0
 False,Specialized Aethos,DT Swiss ARC 1100 Dicut Disc,3033.0,2939.0,30.0,42.0
 False,Specialized Aethos,Zipp 858/Super9,3040.0,2940.0,30.0,45.0
 False,Specialized Aethos,Zipp 808/Super9,3042.0,2941.0,30.0,35.0
@@ -1638,7 +1638,7 @@ False,Specialized Aethos,Zwift 32mm Carbon,3093.0,2930.0,30.0,3.0
 False,Specialized Aethos,Campagnolo Bora Ultra 50,3093.5,2923.5,30.0,12.0
 False,Specialized Aethos,Zwift Safety,3093.5,2929.5,30.0,44.0
 False,Specialized Aethos,Zwift Buffalo Fahrrad,3098.0,2937.0,30.0,
-False,Specialized Aethos,Zwift Classic,3099.0,2938.0,30.0,
+False,Specialized Aethos,Zwift Classic,3099.0,2938.0,30.0,1.0
 False,Specialized Tarmac Pro,DT Swiss ARC 1100 Dicut Disc,3033.0,2945.0,36.0,42.0
 False,Specialized Tarmac Pro,Zipp 858/Super9,3040.0,2946.0,36.0,45.0
 False,Specialized Tarmac Pro,Zipp 808/Super9,3042.0,2947.0,36.0,35.0
@@ -1678,7 +1678,7 @@ False,Specialized Tarmac Pro,Zwift 32mm Carbon,3093.0,2936.0,36.0,3.0
 False,Specialized Tarmac Pro,Campagnolo Bora Ultra 50,3093.5,2929.5,36.0,12.0
 False,Specialized Tarmac Pro,Zwift Safety,3093.5,2935.5,36.0,44.0
 False,Specialized Tarmac Pro,Zwift Buffalo Fahrrad,3098.0,2943.0,36.0,
-False,Specialized Tarmac Pro,Zwift Classic,3099.0,2944.0,36.0,
+False,Specialized Tarmac Pro,Zwift Classic,3099.0,2944.0,36.0,1.0
 False,BMC SLR01,DT Swiss ARC 1100 Dicut Disc,3033.5,2956.0,39.0,42.0
 False,BMC SLR01,Zipp 858/Super9,3040.5,2957.0,39.0,45.0
 False,BMC SLR01,Zipp 808/Super9,3042.5,2958.0,39.0,35.0
@@ -1718,7 +1718,7 @@ False,BMC SLR01,Zwift 32mm Carbon,3093.5,2947.0,39.0,3.0
 False,BMC SLR01,Campagnolo Bora Ultra 50,3094.0,2940.5,39.0,12.0
 False,BMC SLR01,Zwift Safety,3094.0,2946.5,39.0,44.0
 False,BMC SLR01,Zwift Buffalo Fahrrad,3098.5,2954.0,39.0,
-False,BMC SLR01,Zwift Classic,3099.5,2955.0,39.0,
+False,BMC SLR01,Zwift Classic,3099.5,2955.0,39.0,1.0
 False,Cannondale Synapse,DT Swiss ARC 1100 Dicut Disc,3033.5,2960.0,12.0,42.0
 False,Cannondale Synapse,Zipp 858/Super9,3040.5,2961.0,12.0,45.0
 False,Cannondale Synapse,Zipp 808/Super9,3042.5,2962.0,12.0,35.0
@@ -1758,7 +1758,7 @@ False,Cannondale Synapse,Zwift 32mm Carbon,3093.5,2951.0,12.0,3.0
 False,Cannondale Synapse,Campagnolo Bora Ultra 50,3094.0,2944.5,12.0,12.0
 False,Cannondale Synapse,Zwift Safety,3094.0,2950.5,12.0,44.0
 False,Cannondale Synapse,Zwift Buffalo Fahrrad,3098.5,2958.0,12.0,
-False,Cannondale Synapse,Zwift Classic,3099.5,2959.0,12.0,
+False,Cannondale Synapse,Zwift Classic,3099.5,2959.0,12.0,1.0
 False,Cervelo R5,DT Swiss ARC 1100 Dicut Disc,3033.5,2950.5,28.0,42.0
 False,Cervelo R5,Zipp 858/Super9,3040.5,2951.5,28.0,45.0
 False,Cervelo R5,Zipp 808/Super9,3042.5,2952.5,28.0,35.0
@@ -1798,7 +1798,7 @@ False,Cervelo R5,Zwift 32mm Carbon,3093.5,2941.5,28.0,3.0
 False,Cervelo R5,Campagnolo Bora Ultra 50,3094.0,2935.0,28.0,12.0
 False,Cervelo R5,Zwift Safety,3094.0,2941.0,28.0,44.0
 False,Cervelo R5,Zwift Buffalo Fahrrad,3098.5,2948.5,28.0,
-False,Cervelo R5,Zwift Classic,3099.5,2949.5,28.0,
+False,Cervelo R5,Zwift Classic,3099.5,2949.5,28.0,1.0
 False,Chapter2 Tere,DT Swiss ARC 1100 Dicut Disc,3033.5,2950.5,6.0,42.0
 False,Chapter2 Tere,Zipp 858/Super9,3040.5,2951.5,6.0,45.0
 False,Chapter2 Tere,Zipp 808/Super9,3042.5,2952.5,6.0,35.0
@@ -1838,7 +1838,7 @@ False,Chapter2 Tere,Zwift 32mm Carbon,3093.5,2941.5,6.0,3.0
 False,Chapter2 Tere,Campagnolo Bora Ultra 50,3094.0,2935.0,6.0,12.0
 False,Chapter2 Tere,Zwift Safety,3094.0,2941.0,6.0,44.0
 False,Chapter2 Tere,Zwift Buffalo Fahrrad,3098.5,2948.5,6.0,
-False,Chapter2 Tere,Zwift Classic,3099.5,2949.5,6.0,
+False,Chapter2 Tere,Zwift Classic,3099.5,2949.5,6.0,1.0
 False,Specialized Amira,DT Swiss ARC 1100 Dicut Disc,3033.5,2955.0,36.0,42.0
 False,Specialized Amira,Zipp 858/Super9,3040.5,2956.0,36.0,45.0
 False,Specialized Amira,Zipp 808/Super9,3042.5,2957.0,36.0,35.0
@@ -1878,7 +1878,7 @@ False,Specialized Amira,Zwift 32mm Carbon,3093.5,2946.0,36.0,3.0
 False,Specialized Amira,Campagnolo Bora Ultra 50,3094.0,2939.5,36.0,12.0
 False,Specialized Amira,Zwift Safety,3094.0,2945.5,36.0,44.0
 False,Specialized Amira,Zwift Buffalo Fahrrad,3098.5,2953.0,36.0,
-False,Specialized Amira,Zwift Classic,3099.5,2954.0,36.0,
+False,Specialized Amira,Zwift Classic,3099.5,2954.0,36.0,1.0
 False,Specialized Amira S-Works,DT Swiss ARC 1100 Dicut Disc,3033.5,2949.0,36.0,42.0
 False,Specialized Amira S-Works,Zipp 858/Super9,3040.5,2950.0,36.0,45.0
 False,Specialized Amira S-Works,Zipp 808/Super9,3042.5,2951.0,36.0,35.0
@@ -1918,7 +1918,7 @@ False,Specialized Amira S-Works,Zwift 32mm Carbon,3093.5,2940.0,36.0,3.0
 False,Specialized Amira S-Works,Campagnolo Bora Ultra 50,3094.0,2933.5,36.0,12.0
 False,Specialized Amira S-Works,Zwift Safety,3094.0,2939.5,36.0,44.0
 False,Specialized Amira S-Works,Zwift Buffalo Fahrrad,3098.5,2947.0,36.0,
-False,Specialized Amira S-Works,Zwift Classic,3099.5,2948.0,36.0,
+False,Specialized Amira S-Works,Zwift Classic,3099.5,2948.0,36.0,1.0
 False,Specialized Ruby S-Works,DT Swiss ARC 1100 Dicut Disc,3033.5,2955.5,18.0,42.0
 False,Specialized Ruby S-Works,Zipp 858/Super9,3040.5,2956.5,18.0,45.0
 False,Specialized Ruby S-Works,Zipp 808/Super9,3042.5,2957.5,18.0,35.0
@@ -1958,7 +1958,7 @@ False,Specialized Ruby S-Works,Zwift 32mm Carbon,3093.5,2946.5,18.0,3.0
 False,Specialized Ruby S-Works,Campagnolo Bora Ultra 50,3094.0,2940.0,18.0,12.0
 False,Specialized Ruby S-Works,Zwift Safety,3094.0,2946.0,18.0,44.0
 False,Specialized Ruby S-Works,Zwift Buffalo Fahrrad,3098.5,2953.5,18.0,
-False,Specialized Ruby S-Works,Zwift Classic,3099.5,2954.5,18.0,
+False,Specialized Ruby S-Works,Zwift Classic,3099.5,2954.5,18.0,1.0
 False,Trek Emonda,DT Swiss ARC 1100 Dicut Disc,3033.5,2947.0,0.0,42.0
 False,Trek Emonda,Zipp 858/Super9,3040.5,2948.0,0.0,45.0
 False,Trek Emonda,Zipp 808/Super9,3042.5,2949.0,0.0,35.0
@@ -1998,7 +1998,7 @@ False,Trek Emonda,Zwift 32mm Carbon,3093.5,2938.0,0.0,3.0
 False,Trek Emonda,Campagnolo Bora Ultra 50,3094.0,2931.5,0.0,12.0
 False,Trek Emonda,Zwift Safety,3094.0,2937.5,0.0,44.0
 False,Trek Emonda,Zwift Buffalo Fahrrad,3098.5,2945.0,0.0,
-False,Trek Emonda,Zwift Classic,3099.5,2946.0,0.0,
+False,Trek Emonda,Zwift Classic,3099.5,2946.0,0.0,1.0
 False,Colnago V3RS,DT Swiss ARC 1100 Dicut Disc,3034.0,2960.5,38.0,42.0
 False,Colnago V3RS,Zipp 858/Super9,3041.0,2961.5,38.0,45.0
 False,Colnago V3RS,Zipp 808/Super9,3043.0,2962.5,38.0,35.0
@@ -2038,7 +2038,7 @@ False,Colnago V3RS,Zwift 32mm Carbon,3094.0,2951.5,38.0,3.0
 False,Colnago V3RS,Campagnolo Bora Ultra 50,3094.5,2945.0,38.0,12.0
 False,Colnago V3RS,Zwift Safety,3094.5,2951.0,38.0,44.0
 False,Colnago V3RS,Zwift Buffalo Fahrrad,3099.0,2958.5,38.0,
-False,Colnago V3RS,Zwift Classic,3100.0,2959.5,38.0,
+False,Colnago V3RS,Zwift Classic,3100.0,2959.5,38.0,1.0
 False,Cube Litening,DT Swiss ARC 1100 Dicut Disc,3034.0,2951.0,24.0,42.0
 False,Cube Litening,Zipp 858/Super9,3041.0,2952.0,24.0,45.0
 False,Cube Litening,Zipp 808/Super9,3043.0,2953.0,24.0,35.0
@@ -2078,7 +2078,7 @@ False,Cube Litening,Zwift 32mm Carbon,3094.0,2942.0,24.0,3.0
 False,Cube Litening,Campagnolo Bora Ultra 50,3094.5,2935.5,24.0,12.0
 False,Cube Litening,Zwift Safety,3094.5,2941.5,24.0,44.0
 False,Cube Litening,Zwift Buffalo Fahrrad,3099.0,2949.0,24.0,
-False,Cube Litening,Zwift Classic,3100.0,2950.0,24.0,
+False,Cube Litening,Zwift Classic,3100.0,2950.0,24.0,1.0
 False,Liv Langma Advanced SL,DT Swiss ARC 1100 Dicut Disc,3034.0,2954.5,24.0,42.0
 False,Liv Langma Advanced SL,Zipp 858/Super9,3041.0,2955.5,24.0,45.0
 False,Liv Langma Advanced SL,Zipp 808/Super9,3043.0,2956.5,24.0,35.0
@@ -2118,7 +2118,7 @@ False,Liv Langma Advanced SL,Zwift 32mm Carbon,3094.0,2945.5,24.0,3.0
 False,Liv Langma Advanced SL,Campagnolo Bora Ultra 50,3094.5,2939.0,24.0,12.0
 False,Liv Langma Advanced SL,Zwift Safety,3094.5,2945.0,24.0,44.0
 False,Liv Langma Advanced SL,Zwift Buffalo Fahrrad,3099.0,2952.5,24.0,
-False,Liv Langma Advanced SL,Zwift Classic,3100.0,2953.5,24.0,
+False,Liv Langma Advanced SL,Zwift Classic,3100.0,2953.5,24.0,1.0
 False,Ridley Helium,DT Swiss ARC 1100 Dicut Disc,3034.0,2967.0,15.0,42.0
 False,Ridley Helium,Zipp 858/Super9,3041.0,2968.0,15.0,45.0
 False,Ridley Helium,Zipp 808/Super9,3043.0,2969.0,15.0,35.0
@@ -2158,7 +2158,7 @@ False,Ridley Helium,Zwift 32mm Carbon,3094.0,2958.0,15.0,3.0
 False,Ridley Helium,Campagnolo Bora Ultra 50,3094.5,2951.5,15.0,12.0
 False,Ridley Helium,Zwift Safety,3094.5,2957.5,15.0,44.0
 False,Ridley Helium,Zwift Buffalo Fahrrad,3099.0,2965.0,15.0,
-False,Ridley Helium,Zwift Classic,3100.0,2966.0,15.0,
+False,Ridley Helium,Zwift Classic,3100.0,2966.0,15.0,1.0
 False,Specialized Ruby,DT Swiss ARC 1100 Dicut Disc,3034.0,2964.0,18.0,42.0
 False,Specialized Ruby,Zipp 858/Super9,3041.0,2965.0,18.0,45.0
 False,Specialized Ruby,Zipp 808/Super9,3043.0,2966.0,18.0,35.0
@@ -2198,7 +2198,7 @@ False,Specialized Ruby,Zwift 32mm Carbon,3094.0,2955.0,18.0,3.0
 False,Specialized Ruby,Campagnolo Bora Ultra 50,3094.5,2948.5,18.0,12.0
 False,Specialized Ruby,Zwift Safety,3094.5,2954.5,18.0,44.0
 False,Specialized Ruby,Zwift Buffalo Fahrrad,3099.0,2962.0,18.0,
-False,Specialized Ruby,Zwift Classic,3100.0,2963.0,18.0,
+False,Specialized Ruby,Zwift Classic,3100.0,2963.0,18.0,1.0
 False,Trek Emonda SL,DT Swiss ARC 1100 Dicut Disc,3034.0,2952.0,25.0,42.0
 False,Trek Emonda SL,Zipp 858/Super9,3041.0,2953.0,25.0,45.0
 False,Trek Emonda SL,Zipp 808/Super9,3043.0,2954.0,25.0,35.0
@@ -2238,7 +2238,7 @@ False,Trek Emonda SL,Zwift 32mm Carbon,3094.0,2943.0,25.0,3.0
 False,Trek Emonda SL,Campagnolo Bora Ultra 50,3094.5,2936.5,25.0,12.0
 False,Trek Emonda SL,Zwift Safety,3094.5,2942.5,25.0,44.0
 False,Trek Emonda SL,Zwift Buffalo Fahrrad,3099.0,2950.0,25.0,
-False,Trek Emonda SL,Zwift Classic,3100.0,2951.0,25.0,
+False,Trek Emonda SL,Zwift Classic,3100.0,2951.0,25.0,1.0
 False,BMC RoadMachine,DT Swiss ARC 1100 Dicut Disc,3034.5,2973.0,18.0,42.0
 False,BMC RoadMachine,Zipp 858/Super9,3041.5,2974.0,18.0,45.0
 False,BMC RoadMachine,Zipp 808/Super9,3043.5,2975.0,18.0,35.0
@@ -2278,7 +2278,7 @@ False,BMC RoadMachine,Zwift 32mm Carbon,3094.5,2964.0,18.0,3.0
 False,BMC RoadMachine,Campagnolo Bora Ultra 50,3095.0,2957.5,18.0,12.0
 False,BMC RoadMachine,Zwift Safety,3095.0,2963.5,18.0,44.0
 False,BMC RoadMachine,Zwift Buffalo Fahrrad,3099.5,2971.0,18.0,
-False,BMC RoadMachine,Zwift Classic,3100.5,2972.0,18.0,
+False,BMC RoadMachine,Zwift Classic,3100.5,2972.0,18.0,1.0
 False,Moots Vamoots RCS,DT Swiss ARC 1100 Dicut Disc,3034.5,2984.0,8.0,42.0
 False,Moots Vamoots RCS,Zipp 858/Super9,3041.5,2985.0,8.0,45.0
 False,Moots Vamoots RCS,Zipp 808/Super9,3043.5,2986.0,8.0,35.0
@@ -2318,7 +2318,7 @@ False,Moots Vamoots RCS,Zwift 32mm Carbon,3094.5,2975.0,8.0,3.0
 False,Moots Vamoots RCS,Campagnolo Bora Ultra 50,3095.0,2968.5,8.0,12.0
 False,Moots Vamoots RCS,Zwift Safety,3095.0,2974.5,8.0,44.0
 False,Moots Vamoots RCS,Zwift Buffalo Fahrrad,3099.5,2982.0,8.0,
-False,Moots Vamoots RCS,Zwift Classic,3100.5,2983.0,8.0,
+False,Moots Vamoots RCS,Zwift Classic,3100.5,2983.0,8.0,1.0
 False,Mosaic RT-1d,DT Swiss ARC 1100 Dicut Disc,3034.5,2984.0,11.0,42.0
 False,Mosaic RT-1d,Zipp 858/Super9,3041.5,2985.0,11.0,45.0
 False,Mosaic RT-1d,Zipp 808/Super9,3043.5,2986.0,11.0,35.0
@@ -2358,7 +2358,7 @@ False,Mosaic RT-1d,Zwift 32mm Carbon,3094.5,2975.0,11.0,3.0
 False,Mosaic RT-1d,Campagnolo Bora Ultra 50,3095.0,2968.5,11.0,12.0
 False,Mosaic RT-1d,Zwift Safety,3095.0,2974.5,11.0,44.0
 False,Mosaic RT-1d,Zwift Buffalo Fahrrad,3099.5,2982.0,11.0,
-False,Mosaic RT-1d,Zwift Classic,3100.5,2983.0,11.0,
+False,Mosaic RT-1d,Zwift Classic,3100.5,2983.0,11.0,1.0
 False,Specialized Allez,DT Swiss ARC 1100 Dicut Disc,3034.5,2982.5,9.0,42.0
 False,Specialized Allez,Zipp 858/Super9,3041.5,2983.5,9.0,45.0
 False,Specialized Allez,Zipp 808/Super9,3043.5,2984.5,9.0,35.0
@@ -2398,7 +2398,7 @@ False,Specialized Allez,Zwift 32mm Carbon,3094.5,2973.5,9.0,3.0
 False,Specialized Allez,Campagnolo Bora Ultra 50,3095.0,2967.0,9.0,12.0
 False,Specialized Allez,Zwift Safety,3095.0,2973.0,9.0,44.0
 False,Specialized Allez,Zwift Buffalo Fahrrad,3099.5,2980.5,9.0,
-False,Specialized Allez,Zwift Classic,3100.5,2981.5,9.0,
+False,Specialized Allez,Zwift Classic,3100.5,2981.5,9.0,1.0
 False,Van Rysel EDR CF,DT Swiss ARC 1100 Dicut Disc,3034.5,2969.0,7.0,42.0
 False,Van Rysel EDR CF,Zipp 858/Super9,3041.5,2970.0,7.0,45.0
 False,Van Rysel EDR CF,Zipp 808/Super9,3043.5,2971.0,7.0,35.0
@@ -2438,7 +2438,7 @@ False,Van Rysel EDR CF,Zwift 32mm Carbon,3094.5,2960.0,7.0,3.0
 False,Van Rysel EDR CF,Campagnolo Bora Ultra 50,3095.0,2953.5,7.0,12.0
 False,Van Rysel EDR CF,Zwift Safety,3095.0,2959.5,7.0,44.0
 False,Van Rysel EDR CF,Zwift Buffalo Fahrrad,3099.5,2967.0,7.0,
-False,Van Rysel EDR CF,Zwift Classic,3100.5,2968.0,7.0,
+False,Van Rysel EDR CF,Zwift Classic,3100.5,2968.0,7.0,1.0
 False,Cannondale CAAD12,DT Swiss ARC 1100 Dicut Disc,3035.0,2979.5,6.0,42.0
 False,Cannondale CAAD12,Zipp 858/Super9,3042.0,2980.5,6.0,45.0
 False,Cannondale CAAD12,Zipp 808/Super9,3044.0,2981.5,6.0,35.0
@@ -2478,7 +2478,7 @@ False,Cannondale CAAD12,Zwift 32mm Carbon,3095.0,2970.5,6.0,3.0
 False,Cannondale CAAD12,Campagnolo Bora Ultra 50,3095.5,2964.0,6.0,12.0
 False,Cannondale CAAD12,Zwift Safety,3095.5,2970.0,6.0,44.0
 False,Cannondale CAAD12,Zwift Buffalo Fahrrad,3100.0,2977.5,6.0,
-False,Cannondale CAAD12,Zwift Classic,3101.0,2978.5,6.0,
+False,Cannondale CAAD12,Zwift Classic,3101.0,2978.5,6.0,1.0
 False,Zwift Carbon,DT Swiss ARC 1100 Dicut Disc,3036.0,2996.0,3.0,42.0
 False,Zwift Carbon,Zipp 858/Super9,3043.0,2997.0,3.0,45.0
 False,Zwift Carbon,Zipp 808/Super9,3045.0,2998.0,3.0,35.0
@@ -2518,7 +2518,7 @@ False,Zwift Carbon,Zwift 32mm Carbon,3096.0,2987.0,3.0,3.0
 False,Zwift Carbon,Campagnolo Bora Ultra 50,3096.5,2980.5,3.0,12.0
 False,Zwift Carbon,Zwift Safety,3096.5,2986.5,3.0,44.0
 False,Zwift Carbon,Zwift Buffalo Fahrrad,3101.0,2994.0,3.0,
-False,Zwift Carbon,Zwift Classic,3102.0,2995.0,3.0,
+False,Zwift Carbon,Zwift Classic,3102.0,2995.0,3.0,1.0
 False,Zwift Safety,DT Swiss ARC 1100 Dicut Disc,3037.0,3015.5,44.0,42.0
 False,Zwift Safety,Zipp 858/Super9,3044.0,3016.5,44.0,45.0
 False,Zwift Safety,Zipp 808/Super9,3046.0,3017.5,44.0,35.0
@@ -2558,7 +2558,7 @@ False,Zwift Safety,Zwift 32mm Carbon,3097.0,3006.5,44.0,3.0
 False,Zwift Safety,Campagnolo Bora Ultra 50,3097.5,3000.0,44.0,12.0
 False,Zwift Safety,Zwift Safety,3097.5,3006.0,44.0,44.0
 False,Zwift Safety,Zwift Buffalo Fahrrad,3102.0,3013.5,44.0,
-False,Zwift Safety,Zwift Classic,3103.0,3014.5,44.0,
+False,Zwift Safety,Zwift Classic,3103.0,3014.5,44.0,1.0
 False,Zwift Steel,DT Swiss ARC 1100 Dicut Disc,3039.5,3004.5,1.0,42.0
 False,Zwift Steel,Zipp 858/Super9,3046.5,3005.5,1.0,45.0
 False,Zwift Steel,Zipp 808/Super9,3048.5,3006.5,1.0,35.0
@@ -2598,7 +2598,7 @@ False,Zwift Steel,Zwift 32mm Carbon,3099.5,2995.5,1.0,3.0
 False,Zwift Steel,Campagnolo Bora Ultra 50,3100.0,2989.0,1.0,12.0
 False,Zwift Steel,Zwift Safety,3100.0,2995.0,1.0,44.0
 False,Zwift Steel,Zwift Buffalo Fahrrad,3104.5,3002.5,1.0,
-False,Zwift Steel,Zwift Classic,3105.5,3003.5,1.0,
+False,Zwift Steel,Zwift Classic,3105.5,3003.5,1.0,1.0
 False,Zwift Buffalo Fahrrad,DT Swiss ARC 1100 Dicut Disc,3046.0,3074.5,40.0,42.0
 False,Zwift Buffalo Fahrrad,Zipp 858/Super9,3053.0,3075.5,40.0,45.0
 False,Zwift Buffalo Fahrrad,Zipp 808/Super9,3055.0,3076.5,40.0,35.0
@@ -2638,7 +2638,7 @@ False,Zwift Buffalo Fahrrad,Zwift 32mm Carbon,3106.0,3065.5,40.0,3.0
 False,Zwift Buffalo Fahrrad,Campagnolo Bora Ultra 50,3106.5,3059.0,40.0,12.0
 False,Zwift Buffalo Fahrrad,Zwift Safety,3106.5,3065.0,40.0,44.0
 False,Zwift Buffalo Fahrrad,Zwift Buffalo Fahrrad,3111.0,3072.5,40.0,
-False,Zwift Buffalo Fahrrad,Zwift Classic,3112.0,3073.5,40.0,
+False,Zwift Buffalo Fahrrad,Zwift Classic,3112.0,3073.5,40.0,1.0
 True,CADEX Tri,DT Swiss ARC 1100 Dicut Disc,2916.5,3015.5,40.0,42.0
 True,CADEX Tri,Zipp 858/Super9,2923.5,3016.5,40.0,45.0
 True,CADEX Tri,Zipp 808/Super9,2925.5,3017.5,40.0,35.0
@@ -2678,7 +2678,7 @@ True,CADEX Tri,Zwift 32mm Carbon,2976.5,3006.5,40.0,3.0
 True,CADEX Tri,Campagnolo Bora Ultra 50,2977.0,3000.0,40.0,12.0
 True,CADEX Tri,Zwift Safety,2977.0,3006.0,40.0,44.0
 True,CADEX Tri,Zwift Buffalo Fahrrad,2981.5,3013.5,40.0,
-True,CADEX Tri,Zwift Classic,2982.5,3014.5,40.0,
+True,CADEX Tri,Zwift Classic,2982.5,3014.5,40.0,1.0
 True,Canyon Speedmax CF SLX,DT Swiss ARC 1100 Dicut Disc,2921.0,3018.0,31.0,42.0
 True,Canyon Speedmax CF SLX,Zipp 858/Super9,2928.0,3019.0,31.0,45.0
 True,Canyon Speedmax CF SLX,Zipp 808/Super9,2930.0,3020.0,31.0,35.0
@@ -2718,7 +2718,7 @@ True,Canyon Speedmax CF SLX,Zwift 32mm Carbon,2981.0,3009.0,31.0,3.0
 True,Canyon Speedmax CF SLX,Campagnolo Bora Ultra 50,2981.5,3002.5,31.0,12.0
 True,Canyon Speedmax CF SLX,Zwift Safety,2981.5,3008.5,31.0,44.0
 True,Canyon Speedmax CF SLX,Zwift Buffalo Fahrrad,2986.0,3016.0,31.0,
-True,Canyon Speedmax CF SLX,Zwift Classic,2987.0,3017.0,31.0,
+True,Canyon Speedmax CF SLX,Zwift Classic,2987.0,3017.0,31.0,1.0
 True,Felt IA 2.0,DT Swiss ARC 1100 Dicut Disc,2923.0,3010.0,16.0,42.0
 True,Felt IA 2.0,Zipp 858/Super9,2930.0,3011.0,16.0,45.0
 True,Felt IA 2.0,Zipp 808/Super9,2932.0,3012.0,16.0,35.0
@@ -2758,7 +2758,7 @@ True,Felt IA 2.0,Zwift 32mm Carbon,2983.0,3001.0,16.0,3.0
 True,Felt IA 2.0,Campagnolo Bora Ultra 50,2983.5,2994.5,16.0,12.0
 True,Felt IA 2.0,Zwift Safety,2983.5,3000.5,16.0,44.0
 True,Felt IA 2.0,Zwift Buffalo Fahrrad,2988.0,3008.0,16.0,
-True,Felt IA 2.0,Zwift Classic,2989.0,3009.0,16.0,
+True,Felt IA 2.0,Zwift Classic,2989.0,3009.0,16.0,1.0
 True,Scott Plasma RC Ultimate,DT Swiss ARC 1100 Dicut Disc,2923.0,3010.0,19.0,42.0
 True,Scott Plasma RC Ultimate,Zipp 858/Super9,2930.0,3011.0,19.0,45.0
 True,Scott Plasma RC Ultimate,Zipp 808/Super9,2932.0,3012.0,19.0,35.0
@@ -2798,7 +2798,7 @@ True,Scott Plasma RC Ultimate,Zwift 32mm Carbon,2983.0,3001.0,19.0,3.0
 True,Scott Plasma RC Ultimate,Campagnolo Bora Ultra 50,2983.5,2994.5,19.0,12.0
 True,Scott Plasma RC Ultimate,Zwift Safety,2983.5,3000.5,19.0,44.0
 True,Scott Plasma RC Ultimate,Zwift Buffalo Fahrrad,2988.0,3008.0,19.0,
-True,Scott Plasma RC Ultimate,Zwift Classic,2989.0,3009.0,19.0,
+True,Scott Plasma RC Ultimate,Zwift Classic,2989.0,3009.0,19.0,1.0
 True,Felt IA,DT Swiss ARC 1100 Dicut Disc,2924.0,3018.5,16.0,42.0
 True,Felt IA,Zipp 858/Super9,2931.0,3019.5,16.0,45.0
 True,Felt IA,Zipp 808/Super9,2933.0,3020.5,16.0,35.0
@@ -2838,7 +2838,7 @@ True,Felt IA,Zwift 32mm Carbon,2984.0,3009.5,16.0,3.0
 True,Felt IA,Campagnolo Bora Ultra 50,2984.5,3003.0,16.0,12.0
 True,Felt IA,Zwift Safety,2984.5,3009.0,16.0,44.0
 True,Felt IA,Zwift Buffalo Fahrrad,2989.0,3016.5,16.0,
-True,Felt IA,Zwift Classic,2990.0,3017.5,16.0,
+True,Felt IA,Zwift Classic,2990.0,3017.5,16.0,1.0
 True,Cervelo PX-Series,DT Swiss ARC 1100 Dicut Disc,2924.5,3019.0,34.0,42.0
 True,Cervelo PX-Series,Zipp 858/Super9,2931.5,3020.0,34.0,45.0
 True,Cervelo PX-Series,Zipp 808/Super9,2933.5,3021.0,34.0,35.0
@@ -2878,7 +2878,7 @@ True,Cervelo PX-Series,Zwift 32mm Carbon,2984.5,3010.0,34.0,3.0
 True,Cervelo PX-Series,Campagnolo Bora Ultra 50,2985.0,3003.5,34.0,12.0
 True,Cervelo PX-Series,Zwift Safety,2985.0,3009.5,34.0,44.0
 True,Cervelo PX-Series,Zwift Buffalo Fahrrad,2989.5,3017.0,34.0,
-True,Cervelo PX-Series,Zwift Classic,2990.5,3018.0,34.0,
+True,Cervelo PX-Series,Zwift Classic,2990.5,3018.0,34.0,1.0
 True,Trek Speed Concept SLR 9,DT Swiss ARC 1100 Dicut Disc,2925.5,3051.0,22.0,42.0
 True,Trek Speed Concept SLR 9,Zipp 858/Super9,2932.5,3052.0,22.0,45.0
 True,Trek Speed Concept SLR 9,Zipp 808/Super9,2934.5,3053.0,22.0,35.0
@@ -2918,7 +2918,7 @@ True,Trek Speed Concept SLR 9,Zwift 32mm Carbon,2985.5,3042.0,22.0,3.0
 True,Trek Speed Concept SLR 9,Campagnolo Bora Ultra 50,2986.0,3035.5,22.0,12.0
 True,Trek Speed Concept SLR 9,Zwift Safety,2986.0,3041.5,22.0,44.0
 True,Trek Speed Concept SLR 9,Zwift Buffalo Fahrrad,2990.5,3049.0,22.0,
-True,Trek Speed Concept SLR 9,Zwift Classic,2991.5,3050.0,22.0,
+True,Trek Speed Concept SLR 9,Zwift Classic,2991.5,3050.0,22.0,1.0
 True,Specialized Shiv Disc,DT Swiss ARC 1100 Dicut Disc,2926.0,3020.0,37.0,42.0
 True,Specialized Shiv Disc,Zipp 858/Super9,2933.0,3021.0,37.0,45.0
 True,Specialized Shiv Disc,Zipp 808/Super9,2935.0,3022.0,37.0,35.0
@@ -2958,7 +2958,7 @@ True,Specialized Shiv Disc,Zwift 32mm Carbon,2986.0,3011.0,37.0,3.0
 True,Specialized Shiv Disc,Campagnolo Bora Ultra 50,2986.5,3004.5,37.0,12.0
 True,Specialized Shiv Disc,Zwift Safety,2986.5,3010.5,37.0,44.0
 True,Specialized Shiv Disc,Zwift Buffalo Fahrrad,2991.0,3018.0,37.0,
-True,Specialized Shiv Disc,Zwift Classic,2992.0,3019.0,37.0,
+True,Specialized Shiv Disc,Zwift Classic,2992.0,3019.0,37.0,1.0
 True,Cervelo P5,DT Swiss ARC 1100 Dicut Disc,2931.0,3012.5,34.0,42.0
 True,Cervelo P5,Zipp 858/Super9,2938.0,3013.5,34.0,45.0
 True,Cervelo P5,Zipp 808/Super9,2940.0,3014.5,34.0,35.0
@@ -2998,7 +2998,7 @@ True,Cervelo P5,Zwift 32mm Carbon,2991.0,3003.5,34.0,3.0
 True,Cervelo P5,Campagnolo Bora Ultra 50,2991.5,2997.0,34.0,12.0
 True,Cervelo P5,Zwift Safety,2991.5,3003.0,34.0,44.0
 True,Cervelo P5,Zwift Buffalo Fahrrad,2996.0,3010.5,34.0,
-True,Cervelo P5,Zwift Classic,2997.0,3011.5,34.0,
+True,Cervelo P5,Zwift Classic,2997.0,3011.5,34.0,1.0
 True,Ventum One,DT Swiss ARC 1100 Dicut Disc,2934.5,3044.0,25.0,42.0
 True,Ventum One,Zipp 858/Super9,2941.5,3045.0,25.0,45.0
 True,Ventum One,Zipp 808/Super9,2943.5,3046.0,25.0,35.0
@@ -3038,7 +3038,7 @@ True,Ventum One,Zwift 32mm Carbon,2994.5,3035.0,25.0,3.0
 True,Ventum One,Campagnolo Bora Ultra 50,2995.0,3028.5,25.0,12.0
 True,Ventum One,Zwift Safety,2995.0,3034.5,25.0,44.0
 True,Ventum One,Zwift Buffalo Fahrrad,2999.5,3042.0,25.0,
-True,Ventum One,Zwift Classic,3000.5,3043.0,25.0,
+True,Ventum One,Zwift Classic,3000.5,3043.0,25.0,1.0
 True,BMC Timemachine01,DT Swiss ARC 1100 Dicut Disc,2938.0,3021.0,7.0,42.0
 True,BMC Timemachine01,Zipp 858/Super9,2945.0,3022.0,7.0,45.0
 True,BMC Timemachine01,Zipp 808/Super9,2947.0,3023.0,7.0,35.0
@@ -3078,7 +3078,7 @@ True,BMC Timemachine01,Zwift 32mm Carbon,2998.0,3012.0,7.0,3.0
 True,BMC Timemachine01,Campagnolo Bora Ultra 50,2998.5,3005.5,7.0,12.0
 True,BMC Timemachine01,Zwift Safety,2998.5,3011.5,7.0,44.0
 True,BMC Timemachine01,Zwift Buffalo Fahrrad,3003.0,3019.0,7.0,
-True,BMC Timemachine01,Zwift Classic,3004.0,3020.0,7.0,
+True,BMC Timemachine01,Zwift Classic,3004.0,3020.0,7.0,1.0
 True,Canyon Speedmax,DT Swiss ARC 1100 Dicut Disc,2938.0,3021.5,31.0,42.0
 True,Canyon Speedmax,Zipp 858/Super9,2945.0,3022.5,31.0,45.0
 True,Canyon Speedmax,Zipp 808/Super9,2947.0,3023.5,31.0,35.0
@@ -3118,7 +3118,7 @@ True,Canyon Speedmax,Zwift 32mm Carbon,2998.0,3012.5,31.0,3.0
 True,Canyon Speedmax,Campagnolo Bora Ultra 50,2998.5,3006.0,31.0,12.0
 True,Canyon Speedmax,Zwift Safety,2998.5,3012.0,31.0,44.0
 True,Canyon Speedmax,Zwift Buffalo Fahrrad,3003.0,3019.5,31.0,
-True,Canyon Speedmax,Zwift Classic,3004.0,3020.5,31.0,
+True,Canyon Speedmax,Zwift Classic,3004.0,3020.5,31.0,1.0
 True,Diamondback Andean,DT Swiss ARC 1100 Dicut Disc,2938.0,3016.5,39.0,42.0
 True,Diamondback Andean,Zipp 858/Super9,2945.0,3017.5,39.0,45.0
 True,Diamondback Andean,Zipp 808/Super9,2947.0,3018.5,39.0,35.0
@@ -3158,7 +3158,7 @@ True,Diamondback Andean,Zwift 32mm Carbon,2998.0,3007.5,39.0,3.0
 True,Diamondback Andean,Campagnolo Bora Ultra 50,2998.5,3001.0,39.0,12.0
 True,Diamondback Andean,Zwift Safety,2998.5,3007.0,39.0,44.0
 True,Diamondback Andean,Zwift Buffalo Fahrrad,3003.0,3014.5,39.0,
-True,Diamondback Andean,Zwift Classic,3004.0,3015.5,39.0,
+True,Diamondback Andean,Zwift Classic,3004.0,3015.5,39.0,1.0
 True,Quintana Roo V-PR,DT Swiss ARC 1100 Dicut Disc,2938.0,3019.0,13.0,42.0
 True,Quintana Roo V-PR,Zipp 858/Super9,2945.0,3020.0,13.0,45.0
 True,Quintana Roo V-PR,Zipp 808/Super9,2947.0,3021.0,13.0,35.0
@@ -3198,7 +3198,7 @@ True,Quintana Roo V-PR,Zwift 32mm Carbon,2998.0,3010.0,13.0,3.0
 True,Quintana Roo V-PR,Campagnolo Bora Ultra 50,2998.5,3003.5,13.0,12.0
 True,Quintana Roo V-PR,Zwift Safety,2998.5,3009.5,13.0,44.0
 True,Quintana Roo V-PR,Zwift Buffalo Fahrrad,3003.0,3017.0,13.0,
-True,Quintana Roo V-PR,Zwift Classic,3004.0,3018.0,13.0,
+True,Quintana Roo V-PR,Zwift Classic,3004.0,3018.0,13.0,1.0
 True,Scott Plasma,DT Swiss ARC 1100 Dicut Disc,2938.0,3012.0,19.0,42.0
 True,Scott Plasma,Zipp 858/Super9,2945.0,3013.0,19.0,45.0
 True,Scott Plasma,Zipp 808/Super9,2947.0,3014.0,19.0,35.0
@@ -3238,7 +3238,7 @@ True,Scott Plasma,Zwift 32mm Carbon,2998.0,3003.0,19.0,3.0
 True,Scott Plasma,Campagnolo Bora Ultra 50,2998.5,2996.5,19.0,12.0
 True,Scott Plasma,Zwift Safety,2998.5,3002.5,19.0,44.0
 True,Scott Plasma,Zwift Buffalo Fahrrad,3003.0,3010.0,19.0,
-True,Scott Plasma,Zwift Classic,3004.0,3011.0,19.0,
+True,Scott Plasma,Zwift Classic,3004.0,3011.0,19.0,1.0
 True,Specialized Shiv,DT Swiss ARC 1100 Dicut Disc,2938.0,3020.0,37.0,42.0
 True,Specialized Shiv,Zipp 858/Super9,2945.0,3021.0,37.0,45.0
 True,Specialized Shiv,Zipp 808/Super9,2947.0,3022.0,37.0,35.0
@@ -3278,7 +3278,7 @@ True,Specialized Shiv,Zwift 32mm Carbon,2998.0,3011.0,37.0,3.0
 True,Specialized Shiv,Campagnolo Bora Ultra 50,2998.5,3004.5,37.0,12.0
 True,Specialized Shiv,Zwift Safety,2998.5,3010.5,37.0,44.0
 True,Specialized Shiv,Zwift Buffalo Fahrrad,3003.0,3018.0,37.0,
-True,Specialized Shiv,Zwift Classic,3004.0,3019.0,37.0,
+True,Specialized Shiv,Zwift Classic,3004.0,3019.0,37.0,1.0
 True,Specialized Shiv S-Works,DT Swiss ARC 1100 Dicut Disc,2938.0,3011.0,37.0,42.0
 True,Specialized Shiv S-Works,Zipp 858/Super9,2945.0,3012.0,37.0,45.0
 True,Specialized Shiv S-Works,Zipp 808/Super9,2947.0,3013.0,37.0,35.0
@@ -3318,7 +3318,7 @@ True,Specialized Shiv S-Works,Zwift 32mm Carbon,2998.0,3002.0,37.0,3.0
 True,Specialized Shiv S-Works,Campagnolo Bora Ultra 50,2998.5,2995.5,37.0,12.0
 True,Specialized Shiv S-Works,Zwift Safety,2998.5,3001.5,37.0,44.0
 True,Specialized Shiv S-Works,Zwift Buffalo Fahrrad,3003.0,3009.0,37.0,
-True,Specialized Shiv S-Works,Zwift Classic,3004.0,3010.0,37.0,
+True,Specialized Shiv S-Works,Zwift Classic,3004.0,3010.0,37.0,1.0
 True,Cube Aerium,DT Swiss ARC 1100 Dicut Disc,2938.5,3019.5,10.0,42.0
 True,Cube Aerium,Zipp 858/Super9,2945.5,3020.5,10.0,45.0
 True,Cube Aerium,Zipp 808/Super9,2947.5,3021.5,10.0,35.0
@@ -3358,7 +3358,7 @@ True,Cube Aerium,Zwift 32mm Carbon,2998.5,3010.5,10.0,3.0
 True,Cube Aerium,Campagnolo Bora Ultra 50,2999.0,3004.0,10.0,12.0
 True,Cube Aerium,Zwift Safety,2999.0,3010.0,10.0,44.0
 True,Cube Aerium,Zwift Buffalo Fahrrad,3003.5,3017.5,10.0,
-True,Cube Aerium,Zwift Classic,3004.5,3018.5,10.0,
+True,Cube Aerium,Zwift Classic,3004.5,3018.5,10.0,1.0
 True,Pinarello Bolide,DT Swiss ARC 1100 Dicut Disc,2939.0,3029.0,28.0,42.0
 True,Pinarello Bolide,Zipp 858/Super9,2946.0,3030.0,28.0,45.0
 True,Pinarello Bolide,Zipp 808/Super9,2948.0,3031.0,28.0,35.0
@@ -3398,7 +3398,7 @@ True,Pinarello Bolide,Zwift 32mm Carbon,2999.0,3020.0,28.0,3.0
 True,Pinarello Bolide,Campagnolo Bora Ultra 50,2999.5,3013.5,28.0,12.0
 True,Pinarello Bolide,Zwift Safety,2999.5,3019.5,28.0,44.0
 True,Pinarello Bolide,Zwift Buffalo Fahrrad,3004.0,3027.0,28.0,
-True,Pinarello Bolide,Zwift Classic,3005.0,3028.0,28.0,
+True,Pinarello Bolide,Zwift Classic,3005.0,3028.0,28.0,1.0
 True,Pinarello Bolide TT,DT Swiss ARC 1100 Dicut Disc,2939.0,3030.0,28.0,42.0
 True,Pinarello Bolide TT,Zipp 858/Super9,2946.0,3031.0,28.0,45.0
 True,Pinarello Bolide TT,Zipp 808/Super9,2948.0,3032.0,28.0,35.0
@@ -3438,7 +3438,7 @@ True,Pinarello Bolide TT,Zwift 32mm Carbon,2999.0,3021.0,28.0,3.0
 True,Pinarello Bolide TT,Campagnolo Bora Ultra 50,2999.5,3014.5,28.0,12.0
 True,Pinarello Bolide TT,Zwift Safety,2999.5,3020.5,28.0,44.0
 True,Pinarello Bolide TT,Zwift Buffalo Fahrrad,3004.0,3028.0,28.0,
-True,Pinarello Bolide TT,Zwift Classic,3005.0,3029.0,28.0,
+True,Pinarello Bolide TT,Zwift Classic,3005.0,3029.0,28.0,1.0
 True,Zwift TT,DT Swiss ARC 1100 Dicut Disc,2956.0,3036.0,4.0,42.0
 True,Zwift TT,Zipp 858/Super9,2963.0,3037.0,4.0,45.0
 True,Zwift TT,Zipp 808/Super9,2965.0,3038.0,4.0,35.0
@@ -3478,5 +3478,5 @@ True,Zwift TT,Zwift 32mm Carbon,3016.0,3027.0,4.0,3.0
 True,Zwift TT,Campagnolo Bora Ultra 50,3016.5,3020.5,4.0,12.0
 True,Zwift TT,Zwift Safety,3016.5,3026.5,4.0,44.0
 True,Zwift TT,Zwift Buffalo Fahrrad,3021.0,3034.0,4.0,
-True,Zwift TT,Zwift Classic,3022.0,3035.0,4.0,
+True,Zwift TT,Zwift Classic,3022.0,3035.0,4.0,1.0
 False,Tron (Concept Z1),Tron (Concept Z1),3027.0,2938.0,0.0,0.0
