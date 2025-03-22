@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://mipo47.github.io/zwift-equipment/static/css/main.f178a0be.css",
-    "main.js": "https://mipo47.github.io/zwift-equipment/static/js/main.9e089e52.js",
+    "main.js": "https://mipo47.github.io/zwift-equipment/static/js/main.879a362b.js",
     "static/js/787.d6d5bee3.chunk.js": "https://mipo47.github.io/zwift-equipment/static/js/787.d6d5bee3.chunk.js",
     "index.html": "https://mipo47.github.io/zwift-equipment/index.html",
     "main.f178a0be.css.map": "https://mipo47.github.io/zwift-equipment/static/css/main.f178a0be.css.map",
-    "main.9e089e52.js.map": "https://mipo47.github.io/zwift-equipment/static/js/main.9e089e52.js.map",
+    "main.879a362b.js.map": "https://mipo47.github.io/zwift-equipment/static/js/main.879a362b.js.map",
     "787.d6d5bee3.chunk.js.map": "https://mipo47.github.io/zwift-equipment/static/js/787.d6d5bee3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f178a0be.css",
-    "static/js/main.9e089e52.js"
+    "static/js/main.879a362b.js"
   ]
 }
